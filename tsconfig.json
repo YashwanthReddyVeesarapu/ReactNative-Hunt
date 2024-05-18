@@ -11,7 +11,8 @@
   "include": [
     "**/*.ts",
     "**/*.tsx",
-    ".expo/types/**/*.ts",
-    "expo-env.d.ts"
+    "components/common/cards/popular/popularjobcard.style.js",
+    "components/common/cards/popular/popularjobcard.style.js",
+    "components/common/cards/popular/popularjobcard.style.js"
   ]
 }
